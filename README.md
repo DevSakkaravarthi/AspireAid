@@ -1,6 +1,6 @@
 # AspireAid
 
-## Project Description
+## Description
 AspireAid is a comprehensive, AI-powered examination preparation platform designed to cater to aspirants of various examinations. From school-level exams to competitive ones like UPSC, GMAT, and CAT, our mission is to provide high-quality, accessible, and affordable tools for effective learning and successful examination performance. We utilize the power of artificial intelligence to offer a personalized and adaptive learning experience.
 
 ## Key Features
